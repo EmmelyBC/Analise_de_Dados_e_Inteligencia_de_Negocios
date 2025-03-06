@@ -1,5 +1,5 @@
 ## Curso: Análise de Dados e Inteligencia de Negócios 📊
-O presente repositório tem como objetivo registrar anotações referentes a este curso disponibilizado pela Gran Faculdade.
+O presente repositório tem como objetivo registrar anotações referentes a este curso.
 
 ### 📝Conteúdo Programático:
 | Módulo                        | Anotações |
