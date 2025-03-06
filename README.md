@@ -4,7 +4,7 @@ O presente repositório tem como objetivo registrar anotações referentes a est
 ### 📝Conteúdo Programático:
 | Módulo                        | Anotações |
 |-------------------------------|-----------|
-|População, Amostras e Variáveis|[Módulo 01]([mod01.md](https://github.com/EmmelyBC/Analise_de_Dados_e_Inteligencia_de_Negocios/blob/main/Mod01.md))|
+|População, Amostras e Variáveis|[Módulo 01](https://github.com/EmmelyBC/Analise_de_Dados_e_Inteligencia_de_Negocios/blob/main/Mod01.md)|
 |Coleta de dados                |[Módulo 02](mod02.md)|
 |Análise Exploratória           |[Módulo 03](mod03.md)|
 |Análise inferencial            |[Módulo 04](mod04.md)|
